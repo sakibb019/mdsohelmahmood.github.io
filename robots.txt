@@ -1,1 +1,1 @@
-Sitemap: https://mdsohelmahmood.github.io/Data-Science/sitemap.xml
+Sitemap: https://mdsohelmahmood.github.io/sitemap.xml
